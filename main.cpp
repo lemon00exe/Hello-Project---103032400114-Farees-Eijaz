@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     List L;
-    createList(L);
+    createList(L); // membuat list baru
 
     int x;
     address p;
